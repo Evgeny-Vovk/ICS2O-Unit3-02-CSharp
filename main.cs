@@ -13,7 +13,7 @@ class Program
         float width;
         float height;
 
-        Console.WriteLine("This program finds the area of a pyramid.");
+        Console.WriteLine("This program finds the volume of a pyramid.");
         Console.WriteLine("");
 
         Console.Write("Enter the length(cm): ");
