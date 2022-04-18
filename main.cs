@@ -28,7 +28,7 @@ class Program
 
         //output
         Console.WriteLine("");
-        Console.WriteLine("The volume is: " + volume.ToString("0.00") + "cm³.");
+        Console.WriteLine("The volume is: " + volume.ToString("0.00") + " cm³.");
 
         Console.WriteLine("\nDone.");
     }
